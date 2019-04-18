@@ -9,3 +9,16 @@ function whisper(string) {
 function logShout(string) {
   console.log(shout(string))
 }
+
+function logWhisper(string) {
+  console.log(whisper(string))
+}
+
+sayHiToGrandma(string) {
+  
+  } else if (shout(string) != string) {
+    return "I can't hear you!"
+  } else {
+    return "YES INDEED!"
+  }
+}
